@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Maze\Program.csproj", "{732890FC-C0EF-45F3-86AE-3AB19DC09416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze.BL", "Maze.BL\Maze.BL.csproj", "{199C722B-2CB2-4D01-A083-4D6708458BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Maze.BL", "Tests.Maze.BL\Tests.Maze.BL.csproj", "{341094AD-146C-49EE-B6A7-A3B30611CE46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732890FC-C0EF-45F3-86AE-3AB19DC09416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732890FC-C0EF-45F3-86AE-3AB19DC09416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732890FC-C0EF-45F3-86AE-3AB19DC09416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732890FC-C0EF-45F3-86AE-3AB19DC09416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199C722B-2CB2-4D01-A083-4D6708458BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199C722B-2CB2-4D01-A083-4D6708458BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199C722B-2CB2-4D01-A083-4D6708458BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199C722B-2CB2-4D01-A083-4D6708458BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341094AD-146C-49EE-B6A7-A3B30611CE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341094AD-146C-49EE-B6A7-A3B30611CE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341094AD-146C-49EE-B6A7-A3B30611CE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341094AD-146C-49EE-B6A7-A3B30611CE46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB6BF81-2425-4B12-B3BB-373B2CA748D7}
+	EndGlobalSection
+EndGlobal
